@@ -67,7 +67,7 @@ class _TodoState extends State<Todo> {
                   child: TextField(
                     controller: task,
                     decoration: InputDecoration(
-                      labelText: "Entrer Votre Task",
+                      labelText: "Enter your task",
                       border: OutlineInputBorder(),
                     ),
                   ),
